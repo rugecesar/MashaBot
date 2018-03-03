@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MashaBot", "MashaBot\MashaBot.csproj", "{E57C1883-2D1B-4B3B-968D-03E5D109F8E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MashaBotPublic", "MashaBotPublic\MashaBotPublic.csproj", "{2BA9CFDD-1B24-48DF-873F-B5D123A3C2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57C1883-2D1B-4B3B-968D-03E5D109F8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57C1883-2D1B-4B3B-968D-03E5D109F8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57C1883-2D1B-4B3B-968D-03E5D109F8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57C1883-2D1B-4B3B-968D-03E5D109F8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA9CFDD-1B24-48DF-873F-B5D123A3C2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA9CFDD-1B24-48DF-873F-B5D123A3C2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA9CFDD-1B24-48DF-873F-B5D123A3C2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA9CFDD-1B24-48DF-873F-B5D123A3C2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66F7062-6914-48E9-8280-B3703DD87AA4}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mashabot.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MashaBotPublic\\MashaBotPublic.csproj
+		SccProjectName1 = MashaBotPublic
+		SccLocalPath1 = MashaBotPublic
+	EndGlobalSection
+EndGlobal
